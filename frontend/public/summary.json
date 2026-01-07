@@ -1,0 +1,26 @@
+{
+  "rows": 9660647,
+  "columns": 33,
+  "cost_column": "avg_mdcr_pymt_amt",
+  "cost_mean": 82.99083653449048,
+  "cost_median": 53.102173913,
+  "cost_min": 0.0,
+  "cost_max": 42059.517667,
+  "cost_std": 257.073936751502,
+  "Q1": 20.846821954,
+  "Q3": 92.0179661845,
+  "IQR": 71.1711442305,
+  "IQR_lower_bound": -85.90989439175002,
+  "IQR_upper_bound": 198.77468253025,
+  "missing_cost": 0,
+  "iqr_anomalies_count": 758526,
+  "zscore_anomalies_count": 109517,
+  "key_columns_present": {
+    "hcpcs_cd": true,
+    "hcpcs_desc": true,
+    "rndrng_npi": true,
+    "rndrng_prvdr_type": true,
+    "rndrng_prvdr_state_abrvtn": true,
+    "place_of_srvc_label": true
+  }
+}

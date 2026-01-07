@@ -1,0 +1,246 @@
+{
+  "top_iqr_groups": [
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99214",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 30-39 minutes",
+      "count": 18307
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99213",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 20-29 minutes",
+      "count": 17012
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99232",
+      "hcpcs_desc": "Subsequent hospital care with moderate levelof medical decision making, if using time, at least 35 minutes",
+      "count": 10554
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99223",
+      "hcpcs_desc": "Initial hospital care with moderate level of medical decision making, if using time, at least 75 minutes",
+      "count": 9926
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99204",
+      "hcpcs_desc": "New patient office or other outpatient visit, 45-59 minutes",
+      "count": 9124
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99233",
+      "hcpcs_desc": "Subsequent hospital care with moderate levelof medical decision making, if using time, at least 50 minutes",
+      "count": 8249
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "G0439",
+      "hcpcs_desc": "Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit",
+      "count": 8055
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "90480",
+      "hcpcs_desc": "Admn sarscov2 vacc 1 dose",
+      "count": 6768
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "74177",
+      "hcpcs_desc": "Ct scan of abdomen and pelvis with contrast",
+      "count": 6436
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "90694",
+      "hcpcs_desc": "Influenza vaccine, quadrivalent inactivated, 0.5 ml dosage",
+      "count": 6238
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "G0008",
+      "hcpcs_desc": "Administration of influenza virus vaccine",
+      "count": 6232
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99222",
+      "hcpcs_desc": "Initial hospital care with straightforward or low-level medical decision making, if using time, at least 55 minutes",
+      "count": 6034
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "71046",
+      "hcpcs_desc": "X-ray of chest, 2 views",
+      "count": 6002
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99203",
+      "hcpcs_desc": "New patient office or other outpatient visit, 30-44 minutes",
+      "count": 5719
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "71250",
+      "hcpcs_desc": "Ct scan of chest without contrast",
+      "count": 5677
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "K1034",
+      "hcpcs_desc": "Provision of covid-19 test, nonprescription self-administered and self-collected use, fda approved, authorized or cleared, one test count",
+      "count": 5166
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99239",
+      "hcpcs_desc": "Hospital discharge day management, more than 30 minutes",
+      "count": 5041
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99215",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 40-54 minutes",
+      "count": 5005
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99212",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 10-19 minutes",
+      "count": 4660
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "74018",
+      "hcpcs_desc": "X-ray of abdomen, 1 view",
+      "count": 4612
+    }
+  ],
+  "top_zscore_groups": [
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99213",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 20-29 minutes",
+      "count": 3408
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99214",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 30-39 minutes",
+      "count": 2309
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99204",
+      "hcpcs_desc": "New patient office or other outpatient visit, 45-59 minutes",
+      "count": 1935
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99232",
+      "hcpcs_desc": "Subsequent hospital care with moderate levelof medical decision making, if using time, at least 35 minutes",
+      "count": 1740
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99223",
+      "hcpcs_desc": "Initial hospital care with moderate level of medical decision making, if using time, at least 75 minutes",
+      "count": 1734
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99222",
+      "hcpcs_desc": "Initial hospital care with straightforward or low-level medical decision making, if using time, at least 55 minutes",
+      "count": 1701
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99203",
+      "hcpcs_desc": "New patient office or other outpatient visit, 30-44 minutes",
+      "count": 1405
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99215",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 40-54 minutes",
+      "count": 1391
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99233",
+      "hcpcs_desc": "Subsequent hospital care with moderate levelof medical decision making, if using time, at least 50 minutes",
+      "count": 1369
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "73502",
+      "hcpcs_desc": "X-ray of hip, 2-3 views",
+      "count": 1215
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "93000",
+      "hcpcs_desc": "Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report",
+      "count": 896
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "36415",
+      "hcpcs_desc": "Insertion of needle into vein for collection of blood sample",
+      "count": 874
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "90662",
+      "hcpcs_desc": "Influenza vaccine split virus, preservative free",
+      "count": 725
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "71275",
+      "hcpcs_desc": "Ct scan of blood vessels of chest with contrast",
+      "count": 698
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "72125",
+      "hcpcs_desc": "Ct scan of upper spine without contrast",
+      "count": 697
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "G0439",
+      "hcpcs_desc": "Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit",
+      "count": 681
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99212",
+      "hcpcs_desc": "Established patient office or other outpatient visit, 10-19 minutes",
+      "count": 679
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "99239",
+      "hcpcs_desc": "Hospital discharge day management, more than 30 minutes",
+      "count": 640
+    },
+    {
+      "anomaly_metric": "submitted_to_payment_ratio",
+      "hcpcs_cd": "71046",
+      "hcpcs_desc": "X-ray of chest, 2 views",
+      "count": 624
+    },
+    {
+      "anomaly_metric": "avg_mdcr_pymt_amt",
+      "hcpcs_cd": "71045",
+      "hcpcs_desc": "X-ray of chest, 1 view",
+      "count": 618
+    }
+  ]
+}
